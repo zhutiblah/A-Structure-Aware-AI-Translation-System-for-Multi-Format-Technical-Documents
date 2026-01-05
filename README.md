@@ -28,7 +28,7 @@
 1.  **环境准备**: 确保已安装 Python 3.8 或更高版本。
 2.  **安装依赖**:
     ```bash
-    pip install -r requirements_build.txt
+    pip install -r requirements.txt
     ```
     *(注意：可能需要根据实际运行情况补充安装 `lxml` 等其他依赖)*
 3.  **启动程序**:
