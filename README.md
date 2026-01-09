@@ -4,6 +4,9 @@
 
 **LLM Document Translator Pro** 是一款基于大语言模型（Large Language Model）的高级文档翻译工具。旨在解决传统翻译工具无法保留文档格式的痛点，它能够在**完美保留原始文档格式**（如段落样式、字体、表格、数学公式、代码块等）的前提下，提供高质量的文档翻译服务。
 
+demo，可执行文件
+https://pan.baidu.com/s/1toZbVzAqspJmWvAo5Ytavw?pwd=n3kq
+
 ## ✨ 主要功能 (Features)
 
 *   **多格式支持**：
